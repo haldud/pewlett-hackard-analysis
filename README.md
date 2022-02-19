@@ -20,12 +20,14 @@ Four takeaways from the delivarables:
 * The number one takeaway to consider is the large number of retiring employees. There are a total of 72,458 employees that are retirement eligible.
 * Of the retiring employees, about 36% are "Senior Engineers".
 * About 34% of the retiring employees are "Senior Staff".
-* There were only 1,549 employees ioentified as being eligible for mentorship based on the birth year of 1965.
+* There were only 1,549 employees identified as being eligible for mentorship based on the birth year of 1965.
 
-The number of retiring employees with these senior titles is especially worrisome.
+The number of retiring employees with senior titles is especially worrisome.
 * ![Retiring Employees](RetiringEmployees.png)
 
 ## Summary
+As mentioned in the results, the number of retiring employees is quite staggering. 72,458 roles will need to be filled as the "silver tsunami" impacts. 
+
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
