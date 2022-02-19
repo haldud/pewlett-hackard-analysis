@@ -36,11 +36,11 @@ ORDER BY "count" DESC;
 -- Insert employees eligible for mentorship eligibility into new mentorship_eligibilty table.
 SELECT DISTINCT ON (e.emp_no) e.emp_no
       ,e.first_name
-	  ,e.last_name
-	  ,e.birth_date
-	  ,de.from_date
-	  ,de.to_date
-	  ,t.title
+      ,e.last_name
+      ,e.birth_date
+      ,de.from_date
+      ,de.to_date
+      ,t.title
 INTO mentorship_eligibilty
 FROM employees e
 JOIN dept_employee de
